@@ -11,12 +11,12 @@ Open a terminal or command prompt and navigate to the project directory.
 
 Run the following command to build the project:
 
-'''
+````
 dotnet build
-'''
+````
 After a successful build, run the following command to execute the program:
 
-'''
+````
 dotnet run
-'''
+````
 This will display the net payable amount calculated based on the provided bill and user details.
