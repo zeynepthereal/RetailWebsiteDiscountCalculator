@@ -2,7 +2,7 @@
 
 This is a C# .NET Core program that calculates the net payable amount on a retail website based on different discounts and rules.
 
-How to Run the Code
+## How to Run the Code
 Install .NET Core if you haven't already.
 
 Clone this repository to your local machine.
@@ -21,7 +21,8 @@ dotnet run
 ````
 This will display the net payable amount calculated based on the provided bill and user details.
 
-HOW TO RUN THE TESTS
+## How to Run the Tests
+
 This project includes unit tests to ensure the correctness of the code. To run the tests, follow these steps:
 
 Open a terminal or command prompt and navigate to the project directory (if you haven't already).
@@ -33,7 +34,8 @@ dotnet test
 ````
 This will run all the unit tests and display the test results.
 
-HOW TO GENERATE COVERAGE REPORTS
+## How to generate coverage reports
+
 To generate code coverage reports for the tests, you can use a tool like Coverlet.
 
 Install the coverlet.console NuGet package globally by running the following command:
